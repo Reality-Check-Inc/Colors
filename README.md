@@ -23,8 +23,7 @@ For now, just here in the README... eventually will put into a database.
 
 [COLOR MUSE Colorimeter](https://www.amazon.com/gp/product/B01KKEMIF0/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - Mobile Color Matching Tool - Instantly identify closest matching paint colors, products, and digital color values
 
-[Color Muse 2 Colorimeter (NEW)](https://www.amazon.com/gp/product/B0B1357NYF/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
- - Color and Sheen Matching Tool - Instantly identify the closest matching paint colors, sheen levels, and digital color values
+[Color Muse 2 Colorimeter (NEW)](https://www.amazon.com/gp/product/B0B1357NYF/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - Color and Sheen Matching Tool - Instantly identify the closest matching paint colors, sheen levels, and digital color values
 
 [Nix Mini 2 Color Sensor Colorimeter](https://www.amazon.com/gp/product/B084Z62KX3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - Portable Color Matching Tool -Identify and match paint and digital color values instantly
 
